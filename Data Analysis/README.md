@@ -72,7 +72,7 @@
     12. Exercise
     13. Solution
     
-#### SESSION 05
+#### 05. Tableau
     01. Introduction to Tableau & Installation
     02. Connecting Tableau to Multiple Data Sources
     03. Line Graph, Bar Graph, and Scatterplot
