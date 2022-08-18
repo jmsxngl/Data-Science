@@ -1,19 +1,19 @@
 ## `Programming Fundamental`
 
-01. Introduction to Data Science
+#### 01. Introduction to Data Science
     01. Data Science Definition, Purpose, and Applications
     02. Data Science Challenges
     03. Data Science Methodology
     04. Data Science Roles
   
-02. Introduction to Computer & Programming with Python
+#### 02. Introduction to Computer & Programming with Python
     01. Introduction to Computer & Programming Part 1
     02. Introduction to Computer & Programming Part 2
     03. Introduction to Computer & Programming Part 3
     04. Installation & Setup
     05. Running Code & Python Output
 
-03. Python Variable, Data Types, and User Input
+#### 03. Python Variable, Data Types, and User Input
     01. Variable
     02. Data Types
     03. Numbers, Arithmetic & Assignment Operators, and math Module
@@ -23,7 +23,7 @@
     07. Exercise
     08. Solution
     
-04. Python Conditional Statements
+#### 04. Python Conditional Statements
     01. Conditional Statements Introduction
     02. If Statement
     03. If Else Statement
@@ -31,7 +31,7 @@
     05. Exercise
     06. Solution
 
-05. Python Looping Statements
+#### 05. Python Looping Statements
     01. Loop Statements Introduction
     02. While Loop
     03. For Loop
@@ -40,7 +40,7 @@
     06. Exercise
     07. Solution
 
-06. Python Collection Data Types
+#### 06. Python Collection Data Types
     01. Collection Data Types Introduction
     02. List
     03. List Exercise
@@ -53,7 +53,7 @@
     10. Set Exercise
     11. Set Exercise Solution
 
-07. Python Function
+#### 07. Python Function
     01. Function Introduction
     02. Function Without Input & Output
     03. Function With Input but Without Output
