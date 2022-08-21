@@ -142,5 +142,3 @@ Total : {totalHarga}
     jmlJeruk=jumlahJeruk, hrgJeruk=hargaJeruk, totalHrgJeruk=totalHargaJeruk,
     jmlAnggur=jumlahAnggur, hrgAnggur=hargaAnggur, totalHrgAnggur=totalHargaAnggur,
     totalHarga=(totalHargaAnggur+totalHargaApel+totalHargaJeruk)))
-
-    # END
